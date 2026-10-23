@@ -1,6 +1,6 @@
 cask "verbi" do
-  version "0.10.6"
-  sha256 "1c45365362c782d0ae5ef4debe64aedd7cc0eb7df5eef77d1c0d3b3c66f034fd"
+  version "0.10.22"
+  sha256 "73a2617ca59e3960425d493a22d0a6277a3fff282f307531321b22bb04c87e68"
 
   url "https://github.com/mourato/verbi/releases/download/v#{version}/Verbi-#{version}.zip"
   name "Verbi"
